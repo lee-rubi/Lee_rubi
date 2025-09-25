@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/②뱃지레이블-③배경색?style=④뱃지모양&logo=⑤로고&logoColor=로고색상"/></a>
 -->
 
-인스타그램-->
+<!--인스타그램-->
 <a href="https://www.instagram.com/reel/DOjVV2PjHPp/?igsh=YzM1eDcyOTBoeW1r" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 
