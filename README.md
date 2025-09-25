@@ -13,7 +13,7 @@
 <a href="https://blog.naver.com/shelby_0701" target="_blank">
 <a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
 
-<!--HTML-->
+<!--HTML_-->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
 
 <!--CSS-->
